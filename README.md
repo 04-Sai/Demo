@@ -1,3 +1,4 @@
 # Demo
-I am Sahil Kurbet.<br>
-I am a student. 
+Author : SAHIL KURBET
+<br>
+Education : STUDENT
